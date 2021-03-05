@@ -6,9 +6,26 @@ function Header() {
     <div className="header">
       <img
         className="header__logo"
-        src="https://pingimg.com/uploads/amazon/amazon_PNG11.png"
+        src="http://pngimg.com/uploads/amazon/amazon_PNG25.png"
       />
-      ;<div className="header__search"></div>
+
+      <div className="header__search">
+        <input className="header__searchInput" type="text" />
+      </div>
+      <div className="header__nav">
+        <div className="header__option">
+          <span className="header__optionLineOne">Hello guest</span>
+          <span className="header__optionLinetwo"> Sign In</span>
+        </div>
+        <div className="header__option">
+          <span className="header__optionLineOne">Returns</span>
+          <span className="header__optionLinetwo"> & orders</span>
+        </div>
+        <div className="header__option">
+          <span className="header__optionLineOne">Your</span>
+          <span className="header__optionLinetwo">Prime</span>
+        </div>
+      </div>
     </div>
   );
 }
