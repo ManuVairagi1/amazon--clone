@@ -17,7 +17,7 @@ function Home() {
             title="Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, quisquam!
 
 "
-            price={12.8}
+            price={200}
             image="https://images-na.ssl-images-amazon.com/images/I/61LAI5UX8vL.jpg"
             rating={5}
           />
@@ -26,7 +26,7 @@ function Home() {
             title="Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, quisquam!
 
 "
-            price={12.8}
+            price={150}
             image="https://images-na.ssl-images-amazon.com/images/I/51NRPISnBuL._SY291_BO1,204,203,200_QL40_ML2_.jpg"
             rating={3}
           />
@@ -39,7 +39,7 @@ function Home() {
             title="Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, quisquam!
 
 "
-            price={12.8}
+            price={250}
             image="https://images-na.ssl-images-amazon.com/images/I/51QTTApN-XL._SX324_BO1,204,203,200_.jpg"
             rating={5}
           />
@@ -48,7 +48,7 @@ function Home() {
             title="Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, quisquam!
 
 "
-            price={12.8}
+            price={559}
             image="https://cdnb.artstation.com/p/assets/images/images/010/528/903/large/junting-chen-.jpg?1524898887"
             rating={3}
           />
@@ -57,7 +57,7 @@ function Home() {
             title="Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, quisquam!
 
 "
-            price={12.8}
+            price={550}
             image="https://images-na.ssl-images-amazon.com/images/I/41i9flWTCpL._SX316_BO1,204,203,200_.jpg"
             rating={4}
           />
@@ -69,7 +69,7 @@ function Home() {
             title="Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, quisquam!
 
 "
-            price={12.8}
+            price={120}
             image="https://images-na.ssl-images-amazon.com/images/I/812S0-yEPUL.jpg"
             rating={4}
           />
