@@ -13,6 +13,7 @@ function Home() {
         />
         <div className="home__row">
           <Product
+            id="23423"
             title="Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, quisquam!
 
 "
@@ -21,6 +22,7 @@ function Home() {
             rating={5}
           />
           <Product
+            id="98238"
             title="Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, quisquam!
 
 "
@@ -33,6 +35,7 @@ function Home() {
         </div>
         <div className="home__row">
           <Product
+            id="23432"
             title="Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, quisquam!
 
 "
@@ -41,6 +44,7 @@ function Home() {
             rating={5}
           />
           <Product
+            id="532343"
             title="Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, quisquam!
 
 "
@@ -49,6 +53,7 @@ function Home() {
             rating={3}
           />
           <Product
+            id="753553"
             title="Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, quisquam!
 
 "
@@ -60,6 +65,7 @@ function Home() {
         <div className="home__row">
           {" "}
           <Product
+            id="87577"
             title="Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, quisquam!
 
 "
